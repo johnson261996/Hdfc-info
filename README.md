@@ -6,6 +6,6 @@ A simple Flutter project.
 Home page                    
 :---------------------------------:|
  <div float="left">
-    <img src="https://imgur.com/a/RiN2vpz.png" alt="home Screen" width="110"/>
+    <img src="https://i.imgur.com/fE6ZaSG.jpeg" alt="home Screen" width="110"/>
   </div>
 
